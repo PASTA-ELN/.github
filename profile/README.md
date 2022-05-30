@@ -1,1 +1,1 @@
-This is the user-facing repository
+Pasta-ELN combines raw-data with rich metadata to allow advanced data science for experimentalists. In the database, one can fully adapt and improvise the metadata definitions to generate something novel. PASTA uses a local-first approach: store all data and metadata locally (always accessible to user) and synchronize with a server upon user request.
